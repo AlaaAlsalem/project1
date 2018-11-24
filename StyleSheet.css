@@ -1,0 +1,79 @@
+#topbtn{
+    background-color: black;
+    color: azure;
+    
+}
+#bodi{
+    background-color: black;
+    width: 1000px;
+    margin: auto;
+}
+#head{
+    border: 5px solid black;
+    text-align: center;
+    background-color: peru;
+
+}
+.newPage2{
+    display: inline;
+    border: 2px solid black;
+    width: 200px;
+    text-align: left;
+    float: left;
+    color: white;
+    padding-top: 20px;
+}
+.button{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#midpart{
+    border: 5px solid black;
+    display: inline;
+    color: white;
+    
+    padding: 20px 20px;
+    width: 40%;
+    float: left;
+
+}
+#midpart img{
+    display: inline;
+    float: left;
+    padding: 5px;
+    
+}
+#rightpart{
+    display: inline;
+    float: left;
+    border: 5px solid black;
+    padding: 20px 10px;
+width:30% ;
+
+}
+#rightpart button{
+    display: block;
+    
+    background-color: orange;
+}
+#footer{
+    clear: both;
+    border: 5px solid black;
+    text-align: center;
+    color: white
+}
+a{
+    text-decoration: none;
+    color: orange;
+}
+a:hover {
+    background-color: yellow;
+}
+ 
+    
